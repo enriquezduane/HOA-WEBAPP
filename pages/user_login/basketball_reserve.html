@@ -13,13 +13,27 @@
     <h1>Basketball reserve</h1>
     <nav>
         <div>
-            (rates will be displayed here)
+         
         </div>
         <div>
             <form action="">
-                
-
-            </form>
+                What time would you like to reserve?
+                <label for="start_time">Starting Time:</label>
+                 <select id="start_time" name="appointment" >
+                 <option value="morning">Morning</option>
+                 <option value="afternoon">Afternoon</option>
+                 <option value="evening">Evening</option>
+                 </select>
+     
+                 <label for="end_time">Until:</label>
+                 <select id="end_time" name="appointment" >
+                 <option value="morning">Morning</option>
+                 <option value="afternoon">Afternoon</option>
+                 <option value="evening">Evening</option>
+                 </select>
+                 <br>
+                 <input type="submit" value="Submit">
+             </form>
         </div>
       <div>
       <a href="../user_login/homeowner_menu.html">Back to menu</a>
