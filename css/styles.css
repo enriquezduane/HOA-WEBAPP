@@ -16,12 +16,22 @@ h2{
  
 }
 
-.background-color_images{
-    padding-bottom: 300px;
-    background-color: black;
-    bottom: 300px;
-
+body {
+    margin-top: 60px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right:0px;
 }
+
+.background-color_images {
+    padding-top: 60px;
+    background-color: rgb(195, 195, 195);
+    margin-top: 60px;
+    height: 100vh; /* Updated to use viewport height */
+}
+
+
+
 
 .bHeader_position{
     position: absolute; 
@@ -34,17 +44,8 @@ h2{
   .parkwood_image-resize {
     height: 60px;
     width: 100px;
-    vertical-align: auto;
 
-}
-.temporaryHouse-resize {
-    width: 100%;
-    height: 100;
-    margin: 0;
-    padding: 0;
-    
-}
-
+  }
 
 
 .button_style{
