@@ -1,8 +1,73 @@
 
 
-.nav{ 
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    background: green;
+.titlePage_header {
+    background-color: #304D30;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 63px;
+    padding-top: 0;
+    padding-bottom: 0;
+  
+    
 }
+
+.background-color_images{
+    background-color: white;
+}
+
+.bHeader_position{
+    position: absolute; 
+    top: 0px;
+    right: 0px;
+    padding: 0px;
+    margin: 0;
+  }
+
+  .parkwood_image-resize {
+    height: 60px;
+    width: 100px;
+    vertical-align: top;
+}
+.temporaryHouse-resize {
+    width: 100%;
+    height: 100;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.button_style{
+    background-color: #304D30;
+    color: white;
+    border: none;
+    padding: 10px; 
+    cursor: pointer;
+    width: 150px;
+    height: 60px;
+    line-height: 40px; 
+    font-size: 10px;
+    padding: 0;
+  }
+
+  .button_style:hover {
+    border-bottom:  10px solid black; /* Change the color on hover */
+}
+
+
+
+  .bAnnouncement_position{
+    left: 880px;
+  }
+
+  .bAbout_position{
+    left: 1027px;
+  }
+
+  .bHomeownerLogin_position{
+    left: 1175px;
+  }
+
+ 
+  
