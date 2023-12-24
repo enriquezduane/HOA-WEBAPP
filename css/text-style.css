@@ -1,0 +1,49 @@
+
+
+.upper-label{
+    padding-bottom: 30px;
+}
+
+.sign-in-label-text{
+    line-height: 1.5;
+    padding: 0px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.do-u-have-account{
+    line-height: 15px;
+    display: inline-block; 
+
+}
+
+.username-section{
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+   
+}
+
+.password-section {
+    margin-top: 10px;
+    display: flex; /* Use flexbox for easier alignment */
+    align-items: center; /* Align items vertically in the center */
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 13px;
+}
+
+.text-boxes{
+    width: 415px;
+    height: 40px;
+    box-sizing: border-box;
+    margin-top: 5px; 
+    border-radius: 5px;   
+    font-size: 15px;
+    padding-left: 15px;
+    padding-right:15px;
+}
+
+
+
+

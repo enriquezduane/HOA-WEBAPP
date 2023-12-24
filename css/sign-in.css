@@ -1,0 +1,46 @@
+.container-sign-in {
+    background-color: red;
+    color: white;
+    height: 675px;
+    width: 560px;
+    border-radius: 12px;
+    padding: 30px;
+    display: block;
+    box-sizing: border-box;
+    padding-top: 100px;
+}
+
+.sign-in-margin {
+    background-color: black;
+    height: 90%;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 30px;
+  
+}
+
+.lower-section-sign-in{
+    margin-top: 10px;
+}
+
+.text-boxes{
+    height: 50px;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+
+.password-right-section{
+    display: inline-block;
+    margin-left: auto;
+}
+
+.password-left-section{
+    display: inline-block;
+}
+
+.log-in-button-position{
+    display: inline-block;
+
+}
+
