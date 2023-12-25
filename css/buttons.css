@@ -1,28 +1,29 @@
 .show-password-button {
-    display: inline-block;
-    box-sizing: border-box;
-    margin-left: auto; /* Move the button to the right */
+  display: inline-block;
+  box-sizing: border-box;
+  margin-left: auto;
+  /* Move the button to the right */
 }
 
-.log-in-button{
-    margin-top: 10px;
-    background-color: rgb(0, 147, 0);
-    color: white;
-    font-size: 15px;
-    font-weight: bold;
-    display: inline-block;
-    height: 45px;
-    width: 100px;
-    cursor: pointer;
-    border-radius: 20px;
-    border: 0px;
-    
+.log-in-button {
+  margin-top: 10px;
+  background-color: rgb(0, 147, 0);
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  display: inline-block;
+  height: 45px;
+  width: 100px;
+  cursor: pointer;
+  border-radius: 20px;
+  border: 0px;
+
 }
 
-.log-in-button:hover{
-    opacity: 0.9;
+.log-in-button:hover {
+  opacity: 0.9;
 }
 
-.log-in-button:active{
-    opacity: 0.7;
+.log-in-button:active {
+  opacity: 0.7;
 }
