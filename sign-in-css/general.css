@@ -23,11 +23,11 @@ button{
 }
 
 body{
-    display: flex;
+    display: block;
     align-items:center ;
     justify-content: center;
     position:fixed;
-    top: 75px;
+    top: 80px;
     background-color: #EEF0E5;
     min-height: 100%;
     width: 100%;
@@ -41,6 +41,14 @@ form{
     height: 245px;
     padding: 5px;
     padding-left: 10px;
+}
+
+
+footer{
+    display: block;
+    position: fixed;
+    right: 0px;
+
 }
 
 
