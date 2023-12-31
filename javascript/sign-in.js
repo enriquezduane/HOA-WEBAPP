@@ -1,9 +1,5 @@
-
-
-
-function showPassFunction(){
-
-    var x = document.getElementsById("user-password");
+function showPassFunction() {
+  var x = document.getElementById("user-password");
   if (x.type === "password") {
     x.type = "text";
   } else {
