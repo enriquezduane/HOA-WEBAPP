@@ -22,16 +22,17 @@ button{
     cursor: pointer;
 }
 
-body{
+body {
     display: block;
-    align-items:center ;
+    align-items: center;
     justify-content: center;
-    position:fixed;
+    position: fixed;
     top: 80px;
     background-color: #EEF0E5;
     min-height: 100%;
     width: 100%;
 }
+
 
 form{
     display: flex;
