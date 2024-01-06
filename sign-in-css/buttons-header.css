@@ -7,7 +7,6 @@
     font-weight:bold    ;
     color: #FFFFFF;
     background-color: #163020;
-   
     width: 190px;
 }
 
@@ -35,6 +34,14 @@
     font-weight: bold;
  }
 
+ .facebook-button:hover{
+   opacity: 0.8;
+ }
+
+ .facebook-button:active{
+   opacity: 0.5;
+ }
+
  .google-button{
     background-color: white;
     height: 40px;
@@ -43,6 +50,13 @@
     border-radius: 30px;
     font-size:15px;
     font-weight: bold;
+ }
+
+ .google-button:hover{
+   opacity: 0.8;
+ }
+ .google-button:active{
+   opacity: 0.5;
  }
 
  .log-in-button{

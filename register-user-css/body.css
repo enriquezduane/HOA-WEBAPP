@@ -1,0 +1,129 @@
+
+
+.body-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+
+.register-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #163020;
+    height: 650px;
+    width: 1000px;
+    border-radius: 25px
+}
+
+.register-box{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    width: 1000px;
+    height: 650px;
+    border-left:solid 10px #163020;
+    border-right:solid 10px #163020;
+
+}
+
+.right-register-box{
+    height: 100%;
+    width: 100%;
+    padding-left:30px;
+    border-left: solid 1px black;
+}
+
+.left-register-box{
+    background-color: #304D30;
+    
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+}
+
+.sign-up-label{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.input-field{
+    width: 420px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.input-field-first-name{
+    width: 205px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.input-field-last-name{
+    width: 205px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.input-container{
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+
+
+.input-container-name{
+    display: flex;
+    justify-content: flex-end;
+    width: 425px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+
+}
+
+.input-container-password{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.container-image-parkwood{
+    height: 100%;
+    width: 100%;
+}
+.continue-with-fb-google{
+    height: 100%;
+    width: 100%;
+}
+
+.register-cont{
+    display: flex;
+    padding-left: 20px;
+   
+}
+
+.sign-in-google-facebook{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+    align-items: center;
+    height: 100%;
+
+   
+ 
+}
+
+
+

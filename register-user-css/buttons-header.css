@@ -1,0 +1,27 @@
+
+
+
+.contact-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px ;
+    font-weight:bold    ;
+    color: #FFFFFF;
+    background-color: #163020;
+    width: 190px;
+}
+
+.right-side-contact{
+    padding:5px;
+}
+
+.contact-button:hover{
+    text-decoration: underline;
+    opacity: 0.8;
+ }
+ 
+ .contact-button:active{
+     text-decoration: underline;
+     opacity: 0.5;
+  }
