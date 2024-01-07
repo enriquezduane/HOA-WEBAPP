@@ -32,7 +32,9 @@
 .right-register-box{
     height: 100%;
     width: 100%;
+    padding-top: 20px;
     padding-left:30px;
+
     border-left: solid 1px black;
 }
 
@@ -109,7 +111,7 @@
 
 .register-cont{
     display: flex;
-    padding-left: 20px;
+    padding-left: 10px;
    
 }
 
@@ -117,7 +119,7 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-    
+    color: white;
     align-items: center;
     height: 100%;
 

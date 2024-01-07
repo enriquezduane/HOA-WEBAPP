@@ -1,0 +1,25 @@
+
+
+.body-container{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100%;
+    width: 100%;
+}
+
+.dashboard{
+    height: 100%;
+    width: 400px;
+}
+
+.content{
+    height: 100%;
+    width: 100%;
+
+
+}
+
+.mini-content{
+    height: 100%;
+    width: 400px;
+}

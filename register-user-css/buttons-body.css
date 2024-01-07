@@ -2,8 +2,15 @@
 
 
 .button-register{
-    width: 420px;
-    
+ margin-left:20px ;
+ background-color: #304D30;
+ color: white;
+ font-size: 20px;
+ font-weight: bolder;
+  width: 400px;
+  height: 40px;
+  border-radius: 10px;
+  cursor: pointer;
 }
 
 
